@@ -1,5 +1,5 @@
-## Some kinds of Navbars for Easy Access
-# There are 3 kinds of navbars which are available to use
+# Variations of Navbars
+## There are 3 kinds of navbars:
 - Horizontal with underline effect
 - Vertical with hover effect
 - Horizontal with hover dropdown
